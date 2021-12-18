@@ -1,2 +1,2 @@
-# mini-projetos-javacript
+# mini Projetos Javacript
 Alguns mini projetos em javascript
